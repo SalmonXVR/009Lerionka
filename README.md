@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SalmonXVR 
 - 🌱 I’m currently learning, Blockchain, tech research etc
-- 📫 How to reach me @MalipeDayton in twitter 
+- 📫 How to reach me @MalipeDayton on twitter 
 
 <!---
 SalmonXVR  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
